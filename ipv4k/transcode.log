@@ -1,0 +1,58 @@
+[NULL @ 0000015e3bbccdc0] non-existing SPS 0 referenced in buffering period
+[h264 @ 0000015e3975c5c0] non-existing SPS 0 referenced in buffering period
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 2.960 with rate 1.050 after a lag of 0.361s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 9.579 with rate 1.050 after a lag of 1.276s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 18.624 with rate 1.050 after a lag of 1.320s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 20.960 with rate 1.050 after a lag of 1.640s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 21.333 with rate 1.050 after a lag of 4.313s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 27.541 with rate 1.050 after a lag of 5.356s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 29.960 with rate 1.050 after a lag of 5.678s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 33.536 with rate 1.050 after a lag of 7.032s
+[in#0/hls @ 0000015e396a3200] skipping 2 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 35.960 with rate 1.050 after a lag of 7.344s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 39.573 with rate 1.050 after a lag of 8.674s
+[in#0/hls @ 0000015e396a3200] skipping 2 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 48.597 with rate 1.050 after a lag of 10.940s
+[in#0/hls @ 0000015e396a3200] skipping 3 segments ahead, expired from playlists
+[out_#0:0 @ 0000015e3c177740] 100 buffers queued in out_#0:0, something may be wrong.
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 57.664 with rate 1.050 after a lag of 12.574s
+[in#0/hls @ 0000015e396a3200] skipping 2 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 69.867 with rate 1.050 after a lag of 15.245s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 70.869 with rate 1.050 after a lag of 15.711s
+[in#0/hls @ 0000015e396a3200] skipping 4 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 78.741 with rate 1.050 after a lag of 17.448s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 79.531 with rate 1.050 after a lag of 18.415s
+[in#0/hls @ 0000015e396a3200] skipping 3 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] timestamp discontinuity (stream id=0): 12000000, new offset= -12000000
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 81.867 with rate 1.050 after a lag of 25.694s
+[in#0/hls @ 0000015e396a3200] skipping 3 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 93.728 with rate 1.050 after a lag of 28.348s
+[in#0/hls @ 0000015e396a3200] skipping 3 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 105.781 with rate 1.050 after a lag of 31.889s
+[in#0/hls @ 0000015e396a3200] skipping 4 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 107.960 with rate 1.050 after a lag of 32.553s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 117.771 with rate 1.050 after a lag of 36.170s
+[in#0/hls @ 0000015e396a3200] skipping 5 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] timestamp discontinuity (stream id=0): 12000000, new offset= -24000000
+[vist#0:0/h264 @ 0000015e3b3c3740] timestamp discontinuity (stream id=0): 15000000, new offset= -39000000
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 128.960 with rate 1.050 after a lag of 36.749s
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 131.960 with rate 1.050 after a lag of 37.424s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 159.677 with rate 1.050 after a lag of 37.880s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 168.573 with rate 1.050 after a lag of 38.878s
+[in#0/hls @ 0000015e396a3200] skipping 1 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 177.533 with rate 1.050 after a lag of 39.857s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 178.856 with rate 1.050 after a lag of 42.882s
+[in#0/hls @ 0000015e396a3200] skipping 2 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] Resumed reading at pts 179.960 with rate 1.050 after a lag of 43.267s
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 189.715 with rate 1.050 after a lag of 45.488s
+[in#0/hls @ 0000015e396a3200] skipping 3 segments ahead, expired from playlists
+[aist#0:1/aac @ 0000015e3b9fa600] Resumed reading at pts 204.712 with rate 1.050 after a lag of 48.853s
+[in#0/hls @ 0000015e396a3200] skipping 4 segments ahead, expired from playlists
+[vist#0:0/h264 @ 0000015e3b3c3740] timestamp discontinuity (stream id=0): 12000000, new offset= -51000000
